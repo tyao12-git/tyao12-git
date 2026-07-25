@@ -1,5 +1,5 @@
 ## Hi there 👋
-# My preferred name is Tommy Yao, and my Chinese name is Yuan Yao（姚远）
+## My preferred name is Tommy Yao, and my Chinese name is Yuan Yao（姚远）
 
 **Mathematics & Statistics graduate at UW-Madison| Data Science & Applied Statistics**
 
