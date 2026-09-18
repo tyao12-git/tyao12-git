@@ -19,7 +19,7 @@ Built an end-to-end pipeline to process NYC high-volume
 for-hire vehicle trip records and predict hourly demand
 across geographic zones.
 
-**Tools:** Python, SQL, DuckDB, Pandas, scikit-learn, XG Boost
+**Tools:** Python, SQL, DuckDB, Pandas, XG Boost
 
 [Project Repository]: · [Live Demo]:
 
@@ -42,7 +42,7 @@ Using several packages in R to build visual analysis and data cleaning.
 Constructed and evaluated a systematic trading strategy using
 historical market data, transaction costs, and risk-adjusted
 performance metrics.(I am still developing this, aim to finish
-this project by the end of December.
+this project by the end of December.)
 
 **Tools:** Python, Pandas, NumPy, Matplotlib
 
