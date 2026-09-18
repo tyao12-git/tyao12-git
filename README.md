@@ -21,7 +21,7 @@ across geographic zones.
 
 **Tools:** Python, SQL, DuckDB, Pandas, XG Boost
 
-![Executive Dashboard](assets/Taxi_Dashboard_overview.png)
+![Executive Dashboard]<img src="assets/Taxi_Dashboard_overview.png" width="500">
 
 [Project Repository]: · [Live Demo]:
 
