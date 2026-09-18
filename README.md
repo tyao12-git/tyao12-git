@@ -33,6 +33,10 @@ Using several packages in R to build visual analysis and data cleaning.
 
 **Tools:** R, Logistic Regression, ROC-AUC
 
+####PowerBI DashBoard
+
+![Executive Dashboard]:(assets/Taxi_Dashboard_overview.png)
+
 [Project Repository]: · [Project Report]:
 
 ---
