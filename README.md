@@ -24,9 +24,8 @@ across geographic zones.
 [Executive Dashboard] <p align="left">
   <img src="assets/Taxi_Dashboard_overview.png" width="400">
 </p> 
-[Outbound NYC Demand Analysis]
-<p align="left">
-  <img src="assets/Outbound_NYC_demand.png" width="400">
+[Outbound NYC Demand Analysis] <p align="left">
+  <img src="assets/Outbound_NYC_Demand.png" width="400">
 </p> 
 
 [Project Repository]: · [Live Demo]:
