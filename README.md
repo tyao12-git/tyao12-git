@@ -41,7 +41,8 @@ Using several packages in R to build visual analysis and data cleaning.
 
 Constructed and evaluated a systematic trading strategy using
 historical market data, transaction costs, and risk-adjusted
-performance metrics.
+performance metrics.(I am still developing this, aim to finish
+this project by the end of December.
 
 **Tools:** Python, Pandas, NumPy, Matplotlib
 
