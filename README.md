@@ -22,10 +22,10 @@ across geographic zones.
 **Tools:** Python, SQL, DuckDB, Pandas, XG Boost
 
 [Executive Dashboard] <p align="left">
-  <img src="assets/Taxi_Dashboard_overview.png" width="400">
+  <img src="assets/Taxi_Dashboard_overview.png" width="320">
 </p> 
 [Outbound NYC Demand Analysis] <p align="left">
-  <img src="assets/Outbound_NYC_Demand.png" width="400">
+  <img src="assets/Outbound_NYC_Demand.png" width="320">
 </p> 
 
 [Project Repository]: · [Live Demo]:
