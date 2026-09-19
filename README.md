@@ -29,8 +29,7 @@ across geographic zones.
 
 <img
   src="https://raw.githubusercontent.com/tyao12-git/NYC-uber-lyft-demand-forecasting/main/images/Taxi_Dashboard_overview.png"
-  width="70%"
->
+  width="70%">
 
 <br>
 
@@ -38,8 +37,7 @@ across geographic zones.
 
 <img
   src="https://raw.githubusercontent.com/tyao12-git/NYC-uber-lyft-demand-forecasting/main/images/Outbound_NYC_Demand.png"
-  width="70%"
->
+  width="70%">
 
 </td>
 
