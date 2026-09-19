@@ -21,14 +21,56 @@ across geographic zones.
 
 **Tools:** Python, SQL, DuckDB, Pandas, XG Boost
 
-[Executive Dashboard] <p align="left">
-  <img src="assets/Taxi_Dashboard_overview.png" width="320">
-</p> 
-[Outbound NYC Demand Analysis] <p align="left">
-  <img src="assets/Outbound_NYC_Demand.png" width="320">
-</p> 
+<table>
+<tr>
+<td width="65%" valign="top">
 
-[Project Repository]: · [Live Demo]:
+<h3>📊 Executive Dashboard</h3>
+
+<img src="assets/executive_overview.png" width="100%">
+
+<br>
+
+<h3>📍 Outbound NYC Demand Analysis</h3>
+
+<img src="assets/outbound_demand.png" width="100%">
+
+</td>
+
+<td width="35%" valign="top">
+
+<h3>Project Deliverables</h3>
+
+📄 <a href="reports/final_report.pdf"><b>Final Report</b></a>
+<br><br>
+
+📐 <a href="#mathematical-formulation"><b>Mathematical Formulation</b></a>
+<br><br>
+
+📊 <a href="#model-performance"><b>Model Performance</b></a>
+<br><br>
+
+💡 <a href="#business-insights"><b>Business Insights</b></a>
+
+<br><br>
+
+<h3>Model Performance</h3>
+
+<b>R²:</b> 0.944<br>
+<b>MAE:</b> 8.65<br>
+<b>RMSE:</b> 16.90<br>
+
+<br>
+
+<h3>Tech Stack</h3>
+
+Python · SQL<br>
+DuckDB · Pandas<br>
+XGBoost · Power BI
+
+</td>
+</tr>
+</table>
 
 ---
 
