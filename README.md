@@ -28,7 +28,7 @@ across geographic zones.
 <h3>📊 Executive Dashboard</h3>
 
 <img
-  src="https://raw.githubusercontent.com/tyao12-git/NYC-uber-lyft-demand-forecasting/main/images/executive_dashboard.png"
+  src="https://raw.githubusercontent.com/tyao12-git/NYC-uber-lyft-demand-forecasting/main/images/Taxi_Dashboard_overview.png"
   width="70%"
 >
 
@@ -37,7 +37,7 @@ across geographic zones.
 <h3>📍 Outbound NYC Demand Analysis</h3>
 
 <img
-  src="https://raw.githubusercontent.com/tyao12-git/NYC-uber-lyft-demand-forecasting/main/images/outbound_analysis.png"
+  src="https://raw.githubusercontent.com/tyao12-git/NYC-uber-lyft-demand-forecasting/main/images/Outbound_NYC_Demand.png"
   width="70%"
 >
 
