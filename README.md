@@ -50,7 +50,7 @@ across geographic zones.
 📊 <a href="https://github.com/tyao12-git/NYC-uber-lyft-demand-forecasting#model-performance"><b>Model Performance</b></a>
 <br><br>
 
-💡 <a href="https://github.com/tyao12-git/NYC-uber-lyft-demand-forecasting/blob/main/reports/Buisness Insights.pdf"><b>Business Insights</b></a>
+💡 <a href="https://github.com/tyao12-git/NYC-uber-lyft-demand-forecasting/blob/main/reports/Business Insights.pdf"><b>Business Insights</b></a>
 <br><br>
 
 📐 <a href=https://github.com/tyao12-git/NYC-uber-lyft-demand-forecasting/blob/main/reports/Math.pdf><b>Mathematical Formulation</b></a>
