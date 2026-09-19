@@ -27,13 +27,19 @@ across geographic zones.
 
 <h3>📊 Executive Dashboard</h3>
 
-<img src="assets/Taxi_Dashboard_overview.png" width="70%">
+<img
+  src="https://raw.githubusercontent.com/tyao12-git/NYC-uber-lyft-demand-forecasting/main/images/executive_dashboard.png"
+  width="70%"
+>
 
 <br>
 
 <h3>📍 Outbound NYC Demand Analysis</h3>
 
-<img src="assets/Outbound_NYC_Demand.png" width="70%">
+<img
+  src="https://raw.githubusercontent.com/tyao12-git/NYC-uber-lyft-demand-forecasting/main/images/outbound_analysis.png"
+  width="70%"
+>
 
 </td>
 
@@ -41,16 +47,21 @@ across geographic zones.
 
 <h3>Project Deliverables</h3>
 
-📄 <a href="reports/final_report.pdf"><b>Final Report</b></a>
+
+
+📊 <a href="https://github.com/tyao12-git/NYC-uber-lyft-demand-forecasting#model-performance"><b>Model Performance</b></a>
 <br><br>
 
-📐 <a href="#mathematical-formulation"><b>Mathematical Formulation</b></a>
+💡 <a href="https://github.com/tyao12-git/NYC-uber-lyft-demand-forecasting#business-insights"><b>Business Insights</b></a>
 <br><br>
 
-📊 <a href="#model-performance"><b>Model Performance</b></a>
+📐 <a href="https://github.com/tyao12-git/NYC-uber-lyft-demand-forecasting#mathematical-formulation"><b>Mathematical Formulation</b></a>
 <br><br>
 
-💡 <a href="#business-insights"><b>Business Insights</b></a>
+📄 <a href="https://github.com/tyao12-git/NYC-uber-lyft-demand-forecasting/blob/main/reports/final_report.pdf"><b>Final Report</b></a>
+<br><br>
+
+💻 <a href="https://github.com/tyao12-git/NYC-uber-lyft-demand-forecasting"><b>Full Project Repository</b></a>
 
 <br><br>
 
