@@ -27,13 +27,13 @@ across geographic zones.
 
 <h3>📊 Executive Dashboard</h3>
 
-<img src="assets/executive_overview.png" width="100%">
+<img src="assets/Taxi_Dashboard_overview.png" width="100%">
 
 <br>
 
 <h3>📍 Outbound NYC Demand Analysis</h3>
 
-<img src="assets/outbound_demand.png" width="100%">
+<img src="assets/Outbound_NYC_Demand.png" width="100%">
 
 </td>
 
