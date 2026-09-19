@@ -28,7 +28,7 @@ across geographic zones.
 <h3>📊 Executive Dashboard</h3>
 
 <img
-  src="https://github.com/tyao12-git/NYC-uber-lyft-demand-forecasting/Taxi_Dashboard_overview.png"
+  src="https://github.com/tyao12-git/NYC-uber-lyft-demand-forecasting/main/Taxi_Dashboard_overview.png"
   width="70%">
 
 <br>
