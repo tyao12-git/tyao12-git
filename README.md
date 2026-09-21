@@ -47,8 +47,7 @@ across geographic zones.
 
 
 
-📊 <a href="https://github.com/tyao12-git/NYC-uber-lyft-demand-forecasting#model-performance"><b>Model Performance</b></a>
-<br><br>
+
 
 💡 <a href="https://github.com/tyao12-git/NYC-uber-lyft-demand-forecasting/blob/main/reports/Business Insights.pdf"><b>Business Insights</b></a>
 <br><br>
@@ -56,7 +55,7 @@ across geographic zones.
 📐 <a href=https://github.com/tyao12-git/NYC-uber-lyft-demand-forecasting/blob/main/reports/Math.pdf><b>Mathematical Formulation</b></a>
 <br><br>
 
-📄 <a href="https://github.com/tyao12-git/NYC-uber-lyft-demand-forecasting/blob/main/reports/final_report.pdf"><b>Final Report</b></a>
+📄 <a href="https://github.com/tyao12-git/NYC-uber-lyft-demand-forecasting/blob/main/reports/final_model_report.pdf"><b>Final Report</b></a>
 <br><br>
 
 💻 <a href="https://github.com/tyao12-git/NYC-uber-lyft-demand-forecasting"><b>Full Project Repository</b></a>
@@ -65,9 +64,9 @@ across geographic zones.
 
 <h3>Model Performance</h3>
 
-<b>R²:</b> 0.9500<br>
-<b>MAE:</b> 8.399<br>
-<b>RMSE:</b> 16.00<br>
+<b>R²:</b> 0.9504<br>
+<b>MAE:</b> 8.4533<br>
+<b>RMSE:</b> 15.93<br>
 
 <br>
 
