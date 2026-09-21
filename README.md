@@ -97,7 +97,7 @@ Using several packages in R to build visual analysis and data cleaning.
 <h3>📊 Cancellation Analysis</h3>
 
 <img
-  src="https://github.com/tyao12-git/airline-delay-cancellation-analysis/tree/main/Figures/Cancellation_Analysis.png"
+  src="https://github.com/tyao12-git/airline-delay-cancellation-analysis/blob/main/Figures/Cancellation_Analysis.png"
   width="70%">
 
 <br>
@@ -105,7 +105,7 @@ Using several packages in R to build visual analysis and data cleaning.
 <h3> 🛫 Delay By Airline </h3>
 
 <img
-  src="https://github.com/tyao12-git/airline-delay-cancellation-analysis/tree/main/Figures/Delay_By_Aline.png"
+  src="https://github.com/tyao12-git/airline-delay-cancellation-analysis/blob/main/Figures/Delay_By_Airline.png"
   width="70%">
 
 </td>
