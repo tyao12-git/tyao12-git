@@ -90,10 +90,60 @@ Using several packages in R to build visual analysis and data cleaning.
 
 **Tools:** R, Logistic Regression, ROC-AUC
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
+<h3>📊 Cancellation Analysis</h3>
+
+<img
+  src=".png"
+  width="70%">
+
+<br>
+
+<h3> 🛫 Delay By Airline </h3>
+
+<img
+  src="https://github.com/tyao12-git/airline-delay-cancellation-analysis/tree/main/Figures/Delay_By_Aline"
+  width="70%">
+
+</td>
+
+<td width="35%" valign="top">
+
+<h3>Project Deliverables</h3>
 
 
 
-[Project Repository]: · [Project Report]:
+
+
+👨🏻‍🏫 <a href="https://github.com/tyao12-git/airline-delay-cancellation-analysis/tree/main/Reports/Airline Project Rresentation.pdf"><b> Whole Presentation </b></a>
+<br><br>
+
+
+🧾 <a href="https://github.com/tyao12-git/airline-delay-cancellation-analysis/tree/main/Reports/Regression_SUmmary"><b>Brief Summary</b></a>
+<br><br>
+
+💻 <a href="https://github.com/tyao12-git/airline-delay-cancellation-analysis/tree/main"><b>Full Project Repository</b></a>
+
+<br><br>
+
+<h3>Model Performance</h3>
+
+<b>AUC:</b> 0.65/0.88<br>
+<b>VIF:</b> 1.0-1.8<br>
+
+<br>
+
+<h3>Tech Stack</h3>
+
+R · ggplot2<br>
+Logistic Regression ·Helper Function<br>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -106,6 +156,6 @@ this project by the end of December.)
 
 **Tools:** Python, Pandas, NumPy, Matplotlib
 
-[Project Repository]: · [Results]:
+[Project Repository]: 
 
 
