@@ -84,9 +84,7 @@ XGBoost · Power BI
 
 ### 2. Flight Delay Prediction
 
-Developed and evaluated classification models for predicting
-flight delays using operational and weather-related features.
-Using several packages in R to build visual analysis and data cleaning.
+Developed and evaluated statistical classification models for predicting flight delays using operational and weather-related features. Performed data cleaning, exploratory analysis, visualization, multicollinearity diagnostics, and ROC-AUC evaluation in R.
 
 **Tools:** R, Logistic Regression, ROC-AUC
 
@@ -139,7 +137,7 @@ Using several packages in R to build visual analysis and data cleaning.
 <h3>Tech Stack</h3>
 
 R · ggplot2<br>
-Logistic Regression ·Helper Function<br>
+Logistic Regression · Helper Function<br>
 
 </td>
 </tr>
