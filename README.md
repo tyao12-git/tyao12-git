@@ -118,11 +118,11 @@ Using several packages in R to build visual analysis and data cleaning.
 
 
 
-👨🏻‍🏫 <a href="https://github.com/tyao12-git/airline-delay-cancellation-analysis/tree/main/Reports/Airline Project Rresentation.pdf"><b> Whole Presentation </b></a>
+👨🏻‍🏫 <a href="https://github.com/tyao12-git/airline-delay-cancellation-analysis/blob/main/Reports/Airline%20Project%20Presentation.pdf"><b> Whole Presentation </b></a>
 <br><br>
 
 
-🧾 <a href="https://github.com/tyao12-git/airline-delay-cancellation-analysis/tree/main/Reports/Regression_SUmmary"><b>Brief Summary</b></a>
+🧾 <a href="https://github.com/tyao12-git/airline-delay-cancellation-analysis/blob/main/Reports/Regression_Summary.pdf"><b>Brief Summary</b></a>
 <br><br>
 
 💻 <a href="https://github.com/tyao12-git/airline-delay-cancellation-analysis/tree/main"><b>Full Project Repository</b></a>
