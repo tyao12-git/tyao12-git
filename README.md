@@ -20,7 +20,7 @@ for-hire vehicle trip records and predict hourly demand
 across geographic zones.
 
 **Tools:** Python, SQL, DuckDB, Pandas, XG Boost
-### 📊 [▶ View Interactive Power BI Dashboard](https://app.powerbi.com/groups/me/reports/bb5f7167-4937-4d23-a607-77b068411fc1/d7ebf7b1a700353cc505?experience=power-bi)
+###  [▶ View Interactive Power BI Dashboard](https://app.powerbi.com/groups/me/reports/bb5f7167-4937-4d23-a607-77b068411fc1/d7ebf7b1a700353cc505?experience=power-bi)
 <table>
 <tr>
 <td width="65%" valign="top">
