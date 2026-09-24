@@ -65,9 +65,9 @@ across geographic zones.
 
 <h3>Model Performance</h3>
 
-<b>R²:</b> 0.9504<br>
-<b>MAE:</b> 8.4533<br>
-<b>RMSE:</b> 15.93<br>
+<b>R²:</b> 0.9516<br>
+<b>MAE:</b> 8.4563<br>
+<b>RMSE:</b> 15.74<br>
 
 <br>
 
