@@ -3,7 +3,8 @@
 
 **Mathematics & Statistics graduate at UW-Madison| Data Science & Applied Statistics**
 
-I build data-driven projects using Python, SQL,R, and machine learning skills on large-scale public datasets.
+I build data-driven projects using Python, SQL,R, and machine learning skills on large-scale public datasets. I am also learning new statistical and ML concepts on a daily basis, since the DS roles need to handle the new knowledges quickly.
+One thing that I really proud was a Regression course project I did in the past year, my EDA analysis and model building is acknowledged by the professor.
 
 Currently focused on:
 
